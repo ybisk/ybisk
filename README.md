@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Yonatan 👋
+#### Assistant Professor in the [Language Technologies Institute](https://lti.cs.cmu.edu/) at Carnegie Mellon University
+
+
+My primary research focus is on multimodal language grounding in [Images](https://github.com/rowanz/r2c) or [Actions](https://askforalfred.com/). Previously, I worked on unsupervised learning of syntax via [CGG](https://github.com/ybisk/CCG-Induction)/[HMMs](https://github.com/ketranm/neuralHMM).  You can find a more complete list of research projects at [YonatanBisk.com](http://www.YonatanBisk.com)
+
 
 <!--
 **ybisk/ybisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
